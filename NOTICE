@@ -1,0 +1,12 @@
+ofxLidAngleSensor
+Copyright 2025 Kakuya Shiraishi and contributors
+
+
+This product includes or references information derived from the following projects:
+- "LidAngleSensor" by Sam Henri Gold (Apache License 2.0).
+URL: https://github.com/samhenrigold/LidAngleSensor
+- "pybooklid" by tcsenpai (MIT License).
+URL: https://github.com/tcsenpai/pybooklid
+
+
+No source code from the above projects is distributed as part of this software.
